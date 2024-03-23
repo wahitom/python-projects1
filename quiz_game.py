@@ -1,3 +1,5 @@
+# Mini quiz game
+
 print("Welcome to my mini quiz")
 
 playing = input("Do you want to play (yes/no) ")
